@@ -1,0 +1,101 @@
+input_text,target_text,prefix,freqs,px_count,group
+You are likely to find ,a pencil in a desk,omcs,61,1,Filling
+You are likely to find ,a jellyfish in most oceans,omcs,61,1,Filling
+You are likely to find ,a jellyfish in an ocean,omcs,61,1,Filling
+You are likely ,to find a tree in forests,omcs,40,1,Mapping
+You are likely ,to find a shark in any ocean,omcs,40,1,Filling
+You are likely ,to find words in books.,omcs,40,1,Filling
+a person wants ,sex,omcs,15,1,Filling
+a person wants ,friend.,omcs,15,1,Filling
+a person wants ,money,omcs,15,1,Filling
+a person doesn't want ,to be hurted.,omcs,14,1,Mapping
+a person doesn't want ,to be hate,omcs,14,1,Mapping
+a person doesn't want ,to be in a war,omcs,14,1,Mapping
+You can use ,a cloth to clean,omcs,14,1,Filling
+You can use ,a gun to kill someone,omcs,14,1,Mapping
+You can use ,a guitar to play music,omcs,14,1,Mapping
+Something that might happen while ,competing is you lose,omcs,7,1,Mapping
+Something that might happen while ,competing is you lose,omcs,7,1,Mapping
+Something that might happen while ,going jogging is sweating,omcs,7,1,Mapping
+You are likely to find o,a snake in a zo,omcs,6,1,Mapping
+You are likely to find o,a gazelle in the zo,omcs,6,1,Mapping
+You are likely to find o,a gazelle in a zo,omcs,6,1,Mapping
+Something you find on your desk is ,pens,omcs,5,1,Filling
+Something you find on your desk is ,a stapler.,omcs,5,1,Filling
+Something you find on your desk is ,a telephone,omcs,5,1,Filling
+Something you find at your house is ,a cat,omcs,5,1,Filling
+Something you find at your house is ,a computer,omcs,5,1,Filling
+Something you find at your house is ,people,omcs,5,1,Filling
+Something you find at a park is ,grass,omcs,4,1,Filling
+Something you find at a park is ,a slide.,omcs,4,1,Filling
+Something you find at a park is ,frisbees.,omcs,4,1,Filling
+People can ,die,omcs,4,1,Filling
+People can ,listen to music.,omcs,4,1,Filling
+People can ,talk to each other.,omcs,4,1,Filling
+a person doesn't want  ,to die,omcs,3,1,Mapping
+a person doesn't want  ,to be unhappy,omcs,3,1,Mapping
+a person doesn't want  ,to be unhappy,omcs,3,1,Mapping
+Something you find on a boat is ,people,omcs,3,1,Mapping
+Something you find on a boat is ,life preserver.,omcs,3,1,Filling
+Something you find on a boat is ,an oar,omcs,3,1,Mapping
+Something you find in a house is ,carpet,omcs,3,1,Filling
+Something you find in a house is ,rooms,omcs,3,1,Filling
+Something you find in a house is ,windows,omcs,3,1,Filling
+Something you find in a country is ,humans,omcs,3,1,Filling
+Something you find in a country is ,a state,omcs,3,1,Mapping
+Something you find in a country is ,capital,omcs,3,1,Filling
+Something you find at the office is ,computers,omcs,3,1,Filling
+Something you find at the office is ,desk,omcs,3,1,Filling
+Something you find at the office is ,staplers,omcs,3,1,Filling
+Something you find at the library is ,books,omcs,3,1,Filling
+Something you find at the library is ,computers,omcs,3,1,Filling
+Something you find at the library is ,librarians,omcs,3,1,Filling
+Something you find at an airport is ,an airplane,omcs,3,1,Filling
+Something you find at an airport is ,a plane.,omcs,3,1,Filling
+Something you find at an airport is ,traveller,omcs,3,1,Filling
+Something you find at a church is ,pew,omcs,3,1,Filling
+Something you find at a church is ,candle,omcs,3,1,Filling
+Something you find at a church is ,the Bible.,omcs,3,1,Filling
+water is ,liquid.,omcs,2,1,Filling
+water is ,a liquid.,omcs,2,1,Filling
+people can ,wear clothes,omcs,2,1,Filling
+people can ,drink water,omcs,2,1,Filling
+a pool is used for ,swiming,omcs,2,1,Filling
+a pool is used for ,swimming,omcs,2,1,Filling
+a hammer is used for ,driving nails,omcs,2,1,Filling
+a hammer is used for ,pounding nails,omcs,2,1,Filling
+a goldfish is ,a carp.,omcs,2,1,Filling
+a goldfish is ,a carp.,omcs,2,1,Filling
+You would play because you want ,to have some fun,omcs,2,1,Mapping
+You would play because you want ,to have some fun,omcs,2,1,Mapping
+You would go to a performance because you want  ,entertainment,omcs,2,1,Mapping
+You would go to a performance because you want  ,entertainment,omcs,2,1,Mapping
+The Earth is ,a planet.,omcs,2,1,Filling
+The Earth is ,a sphere.,omcs,2,1,Filling
+Tennis is ,a type of sport.,omcs,2,1,Filling
+Tennis is ,a kind of sport.,omcs,2,1,Filling
+Somewhere food can be is in ,a refrigerator,omcs,2,1,Filling
+Somewhere food can be is in ,a grocery store.,omcs,2,1,Filling
+Sometimes sex causes ,children,omcs,2,1,Filling
+Sometimes sex causes ,an orgasm,omcs,2,1,Filling
+Something you might do while washing your car is ,get wet,omcs,2,1,Mapping
+Something you might do while washing your car is ,get wet,omcs,2,1,Mapping
+Something you find under water is ,jellyfish,omcs,2,1,Filling
+Something you find under water is ,submarines,omcs,2,1,Filling
+Something you find on television is ,commercial,omcs,2,1,Filling
+Something you find on television is ,programs,omcs,2,1,Filling
+Something you find on a roof is ,tiling,omcs,2,1,Filling
+Something you find on a roof is ,chimney.,omcs,2,1,Filling
+Something you find in your mouth is ,your teeth.,omcs,2,1,Filling
+Something you find in your mouth is ,a tongue.,omcs,2,1,Filling
+Something you find in the office is ,paper,omcs,2,1,Filling
+Something you find in the office is ,a boss,omcs,2,1,Mapping
+Something you find in the cupboard is ,cups,omcs,2,1,Filling
+Something you find in the cupboard is ,plates.,omcs,2,1,Filling
+Something you find in a restaurant is ,foods,omcs,2,1,Filling
+Something you find in a restaurant is ,a table,omcs,2,1,Filling
+Something you find in a closet is ,a coat,omcs,2,1,Mapping
+Something you find in a closet is ,a shoe,omcs,2,1,Filling
+Something you find in a classroom is ,students,omcs,2,1,Filling
+Something you find in a classroom is ,desks.,omcs,2,1,Filling
+Something you find in a car is ,seats,omcs,2,1,Filling

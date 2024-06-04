@@ -1,0 +1,501 @@
+input_text,target_text,prefix,freqs,px_count,group
+You are likely to find ,a pencil in a desk,omcs,61,1,Filling
+You are likely to find ,a jellyfish in most oceans,omcs,61,1,Filling
+You are likely to find ,a jellyfish in an ocean,omcs,61,1,Filling
+You are likely ,to find a tree in forests,omcs,40,1,Mapping
+You are likely ,to find a shark in any ocean,omcs,40,1,Filling
+You are likely ,to find words in books.,omcs,40,1,Filling
+a person wants ,sex,omcs,15,1,Filling
+a person wants ,friend.,omcs,15,1,Filling
+a person wants ,money,omcs,15,1,Filling
+a person doesn't want ,to be hurted.,omcs,14,1,Mapping
+a person doesn't want ,to be hate,omcs,14,1,Mapping
+a person doesn't want ,to be in a war,omcs,14,1,Mapping
+You can use ,a cloth to clean,omcs,14,1,Filling
+You can use ,a gun to kill someone,omcs,14,1,Mapping
+You can use ,a guitar to play music,omcs,14,1,Mapping
+Something that might happen while ,competing is you lose,omcs,7,1,Mapping
+Something that might happen while ,competing is you lose,omcs,7,1,Mapping
+Something that might happen while ,going jogging is sweating,omcs,7,1,Mapping
+You are likely to find o,a snake in a zo,omcs,6,1,Mapping
+You are likely to find o,a gazelle in the zo,omcs,6,1,Mapping
+You are likely to find o,a gazelle in a zo,omcs,6,1,Mapping
+Something you find on your desk is ,pens,omcs,5,1,Filling
+Something you find on your desk is ,a stapler.,omcs,5,1,Filling
+Something you find on your desk is ,a telephone,omcs,5,1,Filling
+Something you find at your house is ,a cat,omcs,5,1,Filling
+Something you find at your house is ,a computer,omcs,5,1,Filling
+Something you find at your house is ,people,omcs,5,1,Filling
+Something you find at a park is ,grass,omcs,4,1,Filling
+Something you find at a park is ,a slide.,omcs,4,1,Filling
+Something you find at a park is ,frisbees.,omcs,4,1,Filling
+People can ,die,omcs,4,1,Filling
+People can ,listen to music.,omcs,4,1,Filling
+People can ,talk to each other.,omcs,4,1,Filling
+a person doesn't want  ,to die,omcs,3,1,Mapping
+a person doesn't want  ,to be unhappy,omcs,3,1,Mapping
+a person doesn't want  ,to be unhappy,omcs,3,1,Mapping
+Something you find on a boat is ,people,omcs,3,1,Mapping
+Something you find on a boat is ,life preserver.,omcs,3,1,Filling
+Something you find on a boat is ,an oar,omcs,3,1,Mapping
+Something you find in a house is ,carpet,omcs,3,1,Filling
+Something you find in a house is ,rooms,omcs,3,1,Filling
+Something you find in a house is ,windows,omcs,3,1,Filling
+Something you find in a country is ,humans,omcs,3,1,Filling
+Something you find in a country is ,a state,omcs,3,1,Mapping
+Something you find in a country is ,capital,omcs,3,1,Filling
+Something you find at the office is ,computers,omcs,3,1,Filling
+Something you find at the office is ,desk,omcs,3,1,Filling
+Something you find at the office is ,staplers,omcs,3,1,Filling
+Something you find at the library is ,books,omcs,3,1,Filling
+Something you find at the library is ,computers,omcs,3,1,Filling
+Something you find at the library is ,librarians,omcs,3,1,Filling
+Something you find at an airport is ,an airplane,omcs,3,1,Filling
+Something you find at an airport is ,a plane.,omcs,3,1,Filling
+Something you find at an airport is ,traveller,omcs,3,1,Filling
+Something you find at a church is ,pew,omcs,3,1,Filling
+Something you find at a church is ,candle,omcs,3,1,Filling
+Something you find at a church is ,the Bible.,omcs,3,1,Filling
+water is ,liquid.,omcs,2,1,Filling
+water is ,a liquid.,omcs,2,1,Filling
+people can ,wear clothes,omcs,2,1,Filling
+people can ,drink water,omcs,2,1,Filling
+a pool is used for ,swiming,omcs,2,1,Filling
+a pool is used for ,swimming,omcs,2,1,Filling
+a hammer is used for ,driving nails,omcs,2,1,Filling
+a hammer is used for ,pounding nails,omcs,2,1,Filling
+a goldfish is ,a carp.,omcs,2,1,Filling
+a goldfish is ,a carp.,omcs,2,1,Filling
+You would play because you want ,to have some fun,omcs,2,1,Mapping
+You would play because you want ,to have some fun,omcs,2,1,Mapping
+You would go to a performance because you want  ,entertainment,omcs,2,1,Mapping
+You would go to a performance because you want  ,entertainment,omcs,2,1,Mapping
+The Earth is ,a planet.,omcs,2,1,Filling
+The Earth is ,a sphere.,omcs,2,1,Filling
+Tennis is ,a type of sport.,omcs,2,1,Filling
+Tennis is ,a kind of sport.,omcs,2,1,Filling
+Somewhere food can be is in ,a refrigerator,omcs,2,1,Filling
+Somewhere food can be is in ,a grocery store.,omcs,2,1,Filling
+Sometimes sex causes ,children,omcs,2,1,Filling
+Sometimes sex causes ,an orgasm,omcs,2,1,Filling
+Something you might do while washing your car is ,get wet,omcs,2,1,Mapping
+Something you might do while washing your car is ,get wet,omcs,2,1,Mapping
+Something you find under water is ,jellyfish,omcs,2,1,Filling
+Something you find under water is ,submarines,omcs,2,1,Filling
+Something you find on television is ,commercial,omcs,2,1,Filling
+Something you find on television is ,programs,omcs,2,1,Filling
+Something you find on a roof is ,tiling,omcs,2,1,Filling
+Something you find on a roof is ,chimney.,omcs,2,1,Filling
+Something you find in your mouth is ,your teeth.,omcs,2,1,Filling
+Something you find in your mouth is ,a tongue.,omcs,2,1,Filling
+Something you find in the office is ,paper,omcs,2,1,Filling
+Something you find in the office is ,a boss,omcs,2,1,Mapping
+Something you find in the cupboard is ,cups,omcs,2,1,Filling
+Something you find in the cupboard is ,plates.,omcs,2,1,Filling
+Something you find in a restaurant is ,foods,omcs,2,1,Filling
+Something you find in a restaurant is ,a table,omcs,2,1,Filling
+Something you find in a closet is ,a coat,omcs,2,1,Mapping
+Something you find in a closet is ,a shoe,omcs,2,1,Filling
+Something you find in a classroom is ,students,omcs,2,1,Filling
+Something you find in a classroom is ,desks.,omcs,2,1,Filling
+Something you find in a car is ,seats,omcs,2,1,Filling
+Something you find in a car is ,a driver,omcs,2,1,Mapping
+Something you find in a building is ,the floor,omcs,2,1,Filling
+Something you find in a building is ,a door,omcs,2,1,Filling
+Something you find at the theater is ,a seat,omcs,2,1,Filling
+Something you find at the theater is ,a movie,omcs,2,1,Filling
+Something you find at church is ,a hymnal,omcs,2,1,Filling
+Something you find at church is ,a minister,omcs,2,1,Filling
+Something you find at beach is ,seashells.,omcs,2,1,Filling
+Something you find at beach is ,sea shells.,omcs,2,1,Filling
+Something you find at an opera is ,soprano,omcs,2,1,Filling
+Something you find at an opera is ,opera singer,omcs,2,1,Filling
+Something you find at a library is ,literature,omcs,2,1,Filling
+Something you find at a library is ,a chair,omcs,2,1,Filling
+Something you find at a home is ,family,omcs,2,1,Filling
+Something you find at a home is ,my bed,omcs,2,1,Filling
+Something that might happen when ,you tickle is laugh,omcs,2,1,Mapping
+Something that might happen when ,you skate is falling down,omcs,2,1,Mapping
+Something that might happen as a consequence of ,reading is learning something,omcs,2,1,Mapping
+Something that might happen as a consequence of ,having a party is fun,omcs,2,1,Mapping
+Sex is ,enjoyable,omcs,2,1,Filling
+Sex is ,almost always enjoyable,omcs,2,1,Filling
+Oxygen is ,a gas.,omcs,2,1,Filling
+Oxygen is ,a gas.,omcs,2,1,Filling
+If you want to have a checkup then you should ,make a doctor's appointment.,omcs,2,1,Mapping
+If you want to have a checkup then you should ,go to the doctors,omcs,2,1,Mapping
+Cats have ,whiskers.,omcs,2,1,Filling
+Cats have ,fur,omcs,2,1,Filling
+Cats can ,hunt mice,omcs,2,1,Filling
+Cats can ,eat mice.,omcs,2,1,Filling
+An apple is ,red,omcs,2,1,Filling
+An apple is ,green,omcs,2,1,Filling
+A computer is ,an electronic device.,omcs,2,1,Filling
+A computer is ,an electronic device.,omcs,2,1,Filling
+A cat is ,a kind of animal.,omcs,2,1,Filling
+A cat is ,a pet,omcs,2,1,Filling
+A cat can ,purr.,omcs,2,1,Filling
+A cat can ,hunt mice,omcs,2,1,Filling
+A bedroom is ,a type of room.,omcs,2,1,Filling
+A bedroom is ,a room.,omcs,2,1,Filling
+wine is for ,drinking,omcs,1,1,Filling
+wine is ,a beverage.,omcs,1,1,Filling
+venus is ,a planet,omcs,1,1,Filling
+trees have ,leaves,omcs,1,1,Filling
+tomato is ,a fruit,omcs,1,1,Filling
+there are ,seven days within a week,omcs,1,1,Filling
+the united states is ,a country,omcs,1,1,Filling
+the sun is ,a kind of star,omcs,1,1,Filling
+the saxophone is ,a musical instrument,omcs,1,1,Filling
+the piano is ,an instrument of music.,omcs,1,1,Filling
+the lion is ,a carnivore,omcs,1,1,Mapping
+the house was ,probably expensive,omcs,1,1,Filling
+the galaxy is part of ,the universe,omcs,1,1,Filling
+talking to someone is for ,communication,omcs,1,1,Filling
+taking finals requires ,study,omcs,1,1,Mapping
+stabbing to death is for ,Killing somebody,omcs,1,1,Mapping
+spoons are used for ,eating soup,omcs,1,1,Filling
+sleeping requires ,closing the eyes,omcs,1,1,Filling
+singers can ,sing songs,omcs,1,1,Filling
+sex is ,a good thing,omcs,1,1,Mapping
+seeing a band requires ,buying a ticket,omcs,1,1,Mapping
+school is for ,learning,omcs,1,1,Filling
+running in a marathon requires ,training.,omcs,1,1,Filling
+restaurants are ,places,omcs,1,1,Filling
+reading to your children is for ,educating them.,omcs,1,1,Filling
+pretending requires ,imagining,omcs,1,1,Filling
+playing sports is for ,fun,omcs,1,1,Filling
+plants usually have ,leaves,omcs,1,1,Filling
+pilot can land ,plane,omcs,1,1,Filling
+physics is ,a science,omcs,1,1,Filling
+paying cash requires ,having cash on you,omcs,1,1,Mapping
+paper is often made of ,wood,omcs,1,1,Filling
+paper is for ,writing on.,omcs,1,1,Filling
+oil is for ,lubrication.,omcs,1,1,Filling
+music is created by ,composing.,omcs,1,1,Filling
+money is used to ,buy things.,omcs,1,1,Filling
+meat is ,a kind of food,omcs,1,1,Filling
+love would make you want ,to propose to a woman,omcs,1,1,Mapping
+love is ,a feeling,omcs,1,1,Filling
+lips are for ,kissing,omcs,1,1,Filling
+lions are ,a kind of cat,omcs,1,1,Filling
+knife can ,spread butter,omcs,1,1,Filling
+kissing someone is for ,expressing love,omcs,1,1,Filling
+kings can ,rule a kingdom,omcs,1,1,Filling
+keys can ,open doors,omcs,1,1,Filling
+iron is ,a metal.,omcs,1,1,Filling
+humans can die ,only once,omcs,1,1,Filling
+houses usually have ,windows,omcs,1,1,Filling
+having food is for ,eating.,omcs,1,1,Filling
+gravity is a force that pulls ,heavy things together,omcs,1,1,Filling
+grass is ,a plant,omcs,1,1,Filling
+gold is ,a kind of metal.,omcs,1,1,Filling
+going to the pub is for ,having a drink,omcs,1,1,Mapping
+going to a performance is for ,entertainment,omcs,1,1,Mapping
+going to a party is for ,Fun,omcs,1,1,Filling
+going to a movie is for ,being entertained.,omcs,1,1,Filling
+glue is ,sticky,omcs,1,1,Filling
+getting a good grade requires ,studying,omcs,1,1,Mapping
+fire is ,very hot,omcs,1,1,Filling
+fire can ,burn things,omcs,1,1,Filling
+finger is part of ,hand,omcs,1,1,Filling
+farmer can ,milk a cow,omcs,1,1,Filling
+exercise is good for ,you.,omcs,1,1,Filling
+driving  requires ,a car,omcs,1,1,Mapping
+dolphins are ,mammals,omcs,1,1,Filling
+darkness is ,the absence of light,omcs,1,1,Filling
+corn is ,a vegetable,omcs,1,1,Filling
+computers can ,store information,omcs,1,1,Filling
+computers are ,machines.,omcs,1,1,Filling
+computer is used for ,communication,omcs,1,1,Filling
+combs  are used to ,straighten the hair,omcs,1,1,Filling
+comb can ,part hair,omcs,1,1,Filling
+cold would make you want ,to light a fire,omcs,1,1,Filling
+china is ,a country,omcs,1,1,Mapping
+children like ,to play with toys.,omcs,1,1,Filling
+chicken is ,food,omcs,1,1,Filling
+chess is ,a game played on a board,omcs,1,1,Filling
+cars usually have ,four wheels,omcs,1,1,Filling
+carrots are ,vegetables,omcs,1,1,Filling
+carpeting is used for ,covering the floor,omcs,1,1,Filling
+car is used for ,driving,omcs,1,1,Filling
+canvas is for ,painting on,omcs,1,1,Filling
+candles can be used for ,light,omcs,1,1,Filling
+buying presents for others requires ,money,omcs,1,1,Filling
+buying a shirt requires ,money,omcs,1,1,Mapping
+buying a beer is for ,drinking,omcs,1,1,Filling
+boys can ,date girls,omcs,1,1,Filling
+bottles are often made of ,plastic,omcs,1,1,Filling
+boss can ,fire employee,omcs,1,1,Filling
+bombs can ,destroy buildings,omcs,1,1,Filling
+biology is ,a science,omcs,1,1,Mapping
+bathing requires ,water.,omcs,1,1,Filling
+banana is ,fruit,omcs,1,1,Filling
+authors can ,write that book,omcs,1,1,Mapping
+attending class is for ,learning.,omcs,1,1,Filling
+an oven is used for ,cooking food,omcs,1,1,Filling
+an ocean is used for ,sailing,omcs,1,1,Filling
+an ear is used for ,hearing.,omcs,1,1,Filling
+an arm has ,one hand,omcs,1,1,Filling
+an apple is ,food,omcs,1,1,Filling
+an aisle is for ,walking through,omcs,1,1,Filling
+all cars have ,an engine,omcs,1,1,Filling
+alcohol can ,cloud your judgement,omcs,1,1,Filling
+a wings is used for ,flying,omcs,1,1,Filling
+a weapon is for ,killing,omcs,1,1,Mapping
+a voice is used for ,singing,omcs,1,1,Filling
+a violin is used for ,making music,omcs,1,1,Filling
+a triangle has ,three sides.,omcs,1,1,Filling
+a toy is used for ,playing,omcs,1,1,Filling
+a toothbrush is used for ,brushing teeth.,omcs,1,1,Filling
+a text is used for ,reading,omcs,1,1,Filling
+a teacher can ,school students,omcs,1,1,Filling
+a soap can be used to ,clean something,omcs,1,1,Filling
+a shower is used for ,cleaning,omcs,1,1,Filling
+a saw is for ,Cutting things such as wood,omcs,1,1,Filling
+a saw is ,a tool.,omcs,1,1,Filling
+a saddle is used for ,riding horses,omcs,1,1,Filling
+a restaurant is for ,eating out,omcs,1,1,Filling
+a radio is for ,listening to music,omcs,1,1,Filling
+a quill is for ,writing,omcs,1,1,Filling
+a pub is for ,having a drink,omcs,1,1,Filling
+a plant is ,a living thing,omcs,1,1,Filling
+a piano is for ,making music,omcs,1,1,Filling
+a pew is in ,a church,omcs,1,1,Filling
+a person  wants ,love,omcs,1,1,Filling
+a pencil is for ,writing things,omcs,1,1,Filling
+a party is for ,fun,omcs,1,1,Filling
+a nose is for ,smelling things,omcs,1,1,Filling
+a net is used for ,catching fish,omcs,1,1,Filling
+a man has ,a penis,omcs,1,1,Filling
+a man  can ,father a child,omcs,1,1,Mapping
+a lion is ,an animal,omcs,1,1,Filling
+a lemon is ,fruit,omcs,1,1,Filling
+a ladder is used for ,climbing.,omcs,1,1,Filling
+a knife is used for ,cutting.,omcs,1,1,Filling
+a knife can ,spread the butter,omcs,1,1,Filling
+a keyboard is part of ,a computer,omcs,1,1,Filling
+a key is used for ,opening doors.,omcs,1,1,Filling
+a key can ,open doors,omcs,1,1,Filling
+a house is for ,living,omcs,1,1,Filling
+a gun is ,a type of weapon,omcs,1,1,Filling
+a guitar is for ,making music,omcs,1,1,Filling
+a guitar is ,a musical instrument.,omcs,1,1,Filling
+a grill is used for ,cooking food,omcs,1,1,Filling
+a glass is for ,drinking,omcs,1,1,Filling
+a fruit is for ,Eating,omcs,1,1,Filling
+a driveway is used for ,parking cars,omcs,1,1,Filling
+a drill is used for ,making holes,omcs,1,1,Filling
+a dressing room is for ,changing your clothes,omcs,1,1,Mapping
+a double edged razor is for ,shaving,omcs,1,1,Filling
+a dog is ,a man's best friend,omcs,1,1,Mapping
+a dog can be ,a pet,omcs,1,1,Filling
+a disco is used for ,dancing,omcs,1,1,Filling
+a diamond is ,hard,omcs,1,1,Filling
+a couch is for ,sitting on it,omcs,1,1,Filling
+a computer is used for ,work,omcs,1,1,Filling
+a clothing closet is for ,storing clothes,omcs,1,1,Filling
+a clock is used for ,telling the time,omcs,1,1,Filling
+a chess piece is for ,playing chess,omcs,1,1,Filling
+a chair is used for ,sitting on.,omcs,1,1,Filling
+a cat is ,furry,omcs,1,1,Filling
+a car is for ,travelling,omcs,1,1,Mapping
+a car has ,seats,omcs,1,1,Filling
+a bus stop is used for ,waiting for the bus,omcs,1,1,Filling
+a book is used for ,learning,omcs,1,1,Filling
+a book is made of ,paper,omcs,1,1,Filling
+a book is for ,reading,omcs,1,1,Filling
+a bomb is used for ,blowing things up.,omcs,1,1,Filling
+a boat is for ,travel on water.,omcs,1,1,Mapping
+a bird is ,an animal,omcs,1,1,Filling
+a bicycle storage area is for ,Storing bicycles,omcs,1,1,Filling
+a bicycle is used for ,transportation.,omcs,1,1,Filling
+a bench is used to ,sit on,omcs,1,1,Filling
+a bedroom is for ,sleeping,omcs,1,1,Filling
+a beanbag chair is for ,sitting down,omcs,1,1,Filling
+a bathtub is for ,bathing,omcs,1,1,Filling
+a bath is for ,relaxation,omcs,1,1,Filling
+a bass may be ,a fish,omcs,1,1,Filling
+a bar stool is for ,sitting on,omcs,1,1,Filling
+a bank is for ,storing money,omcs,1,1,Filling
+a bank can ,lend some money,omcs,1,1,Filling
+a ballpoint pen is used to ,write with,omcs,1,1,Filling
+a baby can ,cry loudly,omcs,1,1,Filling
+You would urinate because ,your bladder was full,omcs,1,1,Filling
+You would take final exams because you want ,to pass the class,omcs,1,1,Mapping
+You would sleep because you want ,rest,omcs,1,1,Filling
+You would sing  because you are ,happy,omcs,1,1,Mapping
+You would read the newspaper because you want ,to be informed.,omcs,1,1,Mapping
+You would have a rest because you were ,very tired,omcs,1,1,Mapping
+You would go to a laundromat because you want ,to clean your clothes.,omcs,1,1,Mapping
+You would eat  because you were ,hungry,omcs,1,1,Mapping
+You would do housework because you want ,to have a clean house,omcs,1,1,Mapping
+You would compete because you want ,win,omcs,1,1,Mapping
+You can use bread to ,make sandwiches,omcs,1,1,Filling
+You can use an apartment to ,live in it.,omcs,1,1,Filling
+You can use a telephone to ,communicate,omcs,1,1,Mapping
+You can use a stool to ,sit,omcs,1,1,Filling
+You can use a sidewalk to ,walk on,omcs,1,1,Mapping
+You can use a show to ,entertain,omcs,1,1,Filling
+You can use a radio to ,listen to music.,omcs,1,1,Filling
+You can use a launching platform to launch ,a rocket.,omcs,1,1,Mapping
+You can use a launching pad to launch ,a rocket,omcs,1,1,Filling
+You can use a key  to ,open a lock,omcs,1,1,Filling
+You can use a fan to ,cool off,omcs,1,1,Filling
+You can use a dish to ,eat things off of,omcs,1,1,Mapping
+You can use a dining table to ,eat,omcs,1,1,Mapping
+You can use a bus stop to wait for ,a bus.,omcs,1,1,Filling
+You can use a bottle to ,hold liquids,omcs,1,1,Filling
+You can use a bed to have ,sex,omcs,1,1,Filling
+You can use a  board to play ,chess,omcs,1,1,Filling
+You are likely to find s,a monkey in zoo,omcs,1,1,Mapping
+You are likely to find a ,hammer in a toolbox,omcs,1,1,Filling
+"You are likely to find ,",a koala in an eucalyptus tree,omcs,1,1,Mapping
+Wood can ,float on water.,omcs,1,1,Filling
+Winning isn't everything...but it's ,something.,omcs,1,1,Mapping
+Wine is ,a drink.,omcs,1,1,Filling
+Windows are usually made of ,glass.,omcs,1,1,Filling
+Water is essential to ,all life,omcs,1,1,Filling
+Water is ,a reflective surface,omcs,1,1,Filling
+Violins are ,stringed instruments.,omcs,1,1,Filling
+Venus is ,a planet,omcs,1,1,Filling
+U2 is ,a band.,omcs,1,1,Mapping
+Too long hair would make ,you want to have a haircut,omcs,1,1,Mapping
+There is ,food at the grocery store.,omcs,1,1,Filling
+There are ,twenty-four hours in a day,omcs,1,1,Mapping
+The sky is ,usually blue,omcs,1,1,Filling
+The ocean is ,salty.,omcs,1,1,Filling
+The last thing you do when you take a shower is ,dry off,omcs,1,1,Filling
+The last thing you do when you do some exercises is ,do a cool-down.,omcs,1,1,Filling
+The last thing you do when you bathe is ,dry off.,omcs,1,1,Filling
+The first thing you do when you wait on tables is ,greet the customers.,omcs,1,1,Mapping
+The first thing you do when you skate is ,put skates on,omcs,1,1,Mapping
+The first thing you do when you go for a drive is ,get in the car,omcs,1,1,Mapping
+The first thing you do when you attend a lecture is ,sit,omcs,1,1,Mapping
+The effect of washing clothes is ,clean clothes.,omcs,1,1,Mapping
+The effect of walking in the rain is you get ,very wet,omcs,1,1,Mapping
+The effect of waiting tables is ,getting tips,omcs,1,1,Filling
+The effect of smoking is ,lung cancer.,omcs,1,1,Filling
+The effect of reading is ,learning,omcs,1,1,Mapping
+The effect of going on a vacation is ,relaxation,omcs,1,1,Mapping
+The effect of going for a swim is ,getting wet.,omcs,1,1,Filling
+The effect of going fishing is ,catching some fish,omcs,1,1,Mapping
+The effect of doing the housework is ,a clean house,omcs,1,1,Mapping
+The effect of  is your hair will be shorter,going to get a haircut,omcs,1,1,Mapping
+The earth is ,the third planet from the sun,omcs,1,1,Filling
+The earth has ,one moon,omcs,1,1,Filling
+The Statue of Liberty was ,a gift from France,omcs,1,1,Filling
+The Internet is for ,research,omcs,1,1,Mapping
+The Earth is part of ,our solar system.,omcs,1,1,Filling
+Sugar  is ,sweet.,omcs,1,1,Filling
+Steel is ,a metal.,omcs,1,1,Filling
+Somewhere water can be is in ,a lake,omcs,1,1,Filling
+Somewhere water  can be is in ,a swimming pool,omcs,1,1,Filling
+Somewhere teachers can be is at ,a school,omcs,1,1,Mapping
+Somewhere peanut butter  can be ,is in a jar,omcs,1,1,Filling
+Somewhere paper  can be ,is on the desk,omcs,1,1,Filling
+Somewhere nurses can be is at ,a hospital,omcs,1,1,Filling
+Somewhere money  can be ,is in the bank,omcs,1,1,Filling
+Somewhere luggage  can be ,is at the airport,omcs,1,1,Filling
+Somewhere ice  can be ,is in the freezer,omcs,1,1,Filling
+Somewhere food can be ,is on the table,omcs,1,1,Filling
+Somewhere food  can be ,is in the kitchen,omcs,1,1,Filling
+Somewhere an anchor  can be ,is on a boat,omcs,1,1,Filling
+Somewhere an airplane can be ,is in the sky.,omcs,1,1,Filling
+Somewhere an actor  can be ,is in the theatre,omcs,1,1,Filling
+Somewhere a waiter can be ,is in a restaurant,omcs,1,1,Filling
+Somewhere a teacher  can be ,is in class,omcs,1,1,Filling
+Somewhere a swing  can be ,is in the park,omcs,1,1,Filling
+Somewhere a sunbather can be ,is at the beach,omcs,1,1,Filling
+Somewhere a student  can be is at ,school,omcs,1,1,Mapping
+Somewhere a shingle can be ,is on a roof,omcs,1,1,Filling
+Somewhere a sail  can be ,is on a boat,omcs,1,1,Filling
+Somewhere a preacher  can be ,is in church,omcs,1,1,Mapping
+Somewhere a pillow can be ,is on a bed,omcs,1,1,Filling
+Somewhere a pen can be ,is in the office,omcs,1,1,Filling
+Somewhere a nose can be ,is on a face,omcs,1,1,Filling
+Somewhere a mirror can be ,is in the bathroom,omcs,1,1,Filling
+Somewhere a letter can be is at ,a post office,omcs,1,1,Filling
+Somewhere a computer can be ,is on a desk,omcs,1,1,Filling
+Somewhere a cloud can be ,is in the sky.,omcs,1,1,Filling
+Somewhere a chair can be ,is in an office,omcs,1,1,Filling
+Somewhere a bride  can be is at ,a wedding,omcs,1,1,Mapping
+Somewhere a boat can be ,is in the water,omcs,1,1,Mapping
+Sometimes washing your car causes ,your car to be clean,omcs,1,1,Mapping
+Sometimes singing causes ,a sore throat.,omcs,1,1,Filling
+Sometimes relaxing causes ,sleeping,omcs,1,1,Filling
+Sometimes playing causes ,fun,omcs,1,1,Filling
+Sometimes playing a game with your friends causes ,fun,omcs,1,1,Mapping
+Sometimes killing causes ,death,omcs,1,1,Filling
+Sometimes having a rest causes ,sleep,omcs,1,1,Mapping
+Sometimes having a haircut causes ,you to have shorter hair.,omcs,1,1,Mapping
+Sometimes going to bed causes ,sleep.,omcs,1,1,Filling
+Sometimes going to a laundromat causes ,clean clothes,omcs,1,1,Mapping
+Sometimes falling causes ,injuries.,omcs,1,1,Filling
+Sometimes exercise causes ,sweat,omcs,1,1,Filling
+Something you need to do before you watch a tv show is ,turn on the tv,omcs,1,1,Turn on the tv
+Something you need to do before you watch TV is ,turn on the TV,omcs,1,1,Mapping
+Something you need to do before you take finals is ,to study,omcs,1,1,Mapping
+Something you need to do before you take an examination is ,study,omcs,1,1,Mapping
+Something you need to do before you take an exam is ,study,omcs,1,1,Mapping
+Something you need to do before you stop your bicycle is ,apply the brake,omcs,1,1,Mapping
+Something you need to do before you sleep is ,close your eyes,omcs,1,1,Filling
+Something you need to do before you see exhibits is ,go to a museum,omcs,1,1,Mapping
+Something you need to do before you see a band is ,buy tickets,omcs,1,1,Mapping
+Something you need to do before you run a marathon is ,to train,omcs,1,1,Mapping
+Something you need to do before you remember is ,think.,omcs,1,1,Mapping
+Something you need to do before you read a newspaper is ,buy a newspaper.,omcs,1,1,Mapping
+Something you need to do before you pretend is ,have an imagination.,omcs,1,1,Mapping
+Something you need to do before you pay cash is ,have cash.,omcs,1,1,Mapping
+Something you need to do before you pass your university exams is ,study.,omcs,1,1,Mapping
+Something you need to do before you listen to music is ,turn on the radio,omcs,1,1,Filling
+Something you need to do before you have a physical exam is ,go to the doctor,omcs,1,1,Mapping
+Something you need to do before you go to bed is ,turn out the lights,omcs,1,1,Mapping
+Something you need to do before you go to an opera is ,buy tickets.,omcs,1,1,Mapping
+Something you need to do before you go for a jog is ,put on your running shoes,omcs,1,1,Mapping
+Something you need to do before you go for a drive is  ,get into the car,omcs,1,1,Mapping
+Something you need to do before you get up early is ,set your alarm clock.,omcs,1,1,Filling
+Something you need to do before you get a good grade is ,study.,omcs,1,1,Mapping
+Something you need to do before you drive to work is ,get into a car.,omcs,1,1,Mapping
+Something you need to do before you drive is ,get in the car.,omcs,1,1,Mapping
+Something you need to do before you do some exercises is ,stretch,omcs,1,1,Mapping
+Something you need to do before you commit perjury is ,lie,omcs,1,1,Mapping
+Something you need to do before you buy something is ,have money,omcs,1,1,Mapping
+Something you need to do before you bathe is ,take your clothes off,omcs,1,1,Mapping
+Something you might do while taking an oath is ,raise your right hand,omcs,1,1,Mapping
+Something you might do while sleeping at night is ,dreaming.,omcs,1,1,Filling
+Something you might do while running in a marathon is ,drinking water,omcs,1,1,Filling
+Something you might do while running a marathon is ,sweating,omcs,1,1,Filling
+Something you might do while riding a horse is ,fall off,omcs,1,1,Filling
+Something you might do while reproducing is ,have sex,omcs,1,1,Mapping
+Something you might do while reading a book is ,turn pages,omcs,1,1,Filling
+Something you might do while praying is ,kneel down,omcs,1,1,Mapping
+Something you might do while playing sports is ,have fun,omcs,1,1,Filling
+Something you might do while playing a guitar is ,sing.,omcs,1,1,Filling
+Something you might do while listening to music is ,dance.,omcs,1,1,Filling
+Something you might do while lighting a fire is ,striking a match,omcs,1,1,Filling
+Something you might do while having sex is ,have an orgasm.,omcs,1,1,Filling
+Something you might do while going to sleep  is ,close your eyes,omcs,1,1,Filling
+Something you might do while gathering energy for tomorrow is ,sleep.,omcs,1,1,Filling
+Something you might do while drinking is ,swallow,omcs,1,1,Filling
+Something you might do while doing housework is ,dusting,omcs,1,1,Filling
+Something you might do while committing to memory is ,repeat,omcs,1,1,Filling
+Something you might do while burying the cat is ,dig a hole,omcs,1,1,Filling
+Something you might do while attending school is ,learn,omcs,1,1,Mapping
+Something you might do while attending class is ,learning,omcs,1,1,Filling
+Something you might do while ,reading is learn,omcs,1,1,Filling
+Something you find under the table is ,a floor.,omcs,1,1,Filling
+Something you find under the bed is ,a dust bunny,omcs,1,1,Filling
+Something you find under a desk is ,drawers,omcs,1,1,Filling
+Something you find on the windowsill is ,a cat,omcs,1,1,Filling
+Something you find on the table is ,a tablecloth.,omcs,1,1,Filling
+Something you find on the subway is ,people,omcs,1,1,Filling
+Something you find on the street is ,bicycle,omcs,1,1,Filling
+Something you find on the sea is ,ship,omcs,1,1,Filling
+Something you find on the sea  is ,boat,omcs,1,1,Filling
+Something you find on the roof is ,birds,omcs,1,1,Filling
+Something you find on the internet is ,information.,omcs,1,1,Filling
+Something you find on the floor is ,carpet,omcs,1,1,Filling
+Something you find on the desk is ,paper clips,omcs,1,1,Filling
+Something you find on a table is ,a plate,omcs,1,1,Filling
+Something you find on a shelf is ,books,omcs,1,1,Filling

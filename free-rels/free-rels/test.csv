@@ -1,0 +1,101 @@
+input_text,prefix,target_text,group
+Somewhere food  can be ,free-cs,is in the kitchen,Filling
+Somewhere an anchor  can be ,free-cs,is on a boat,Filling
+Somewhere an airplane can be ,free-cs,is in the sky.,Filling
+Somewhere an actor  can be ,free-cs,is in the theatre,Filling
+Somewhere a waiter can be ,free-cs,is in a restaurant,Filling
+Somewhere a teacher  can be ,free-cs,is in class,Filling
+Somewhere a swing  can be ,free-cs,is in the park,Filling
+Somewhere a sunbather can be ,free-cs,is at the beach,Filling
+Somewhere a student  can be is at ,free-cs,school,Mapping
+Somewhere a shingle can be ,free-cs,is on a roof,Filling
+Somewhere a sail  can be ,free-cs,is on a boat,Filling
+Somewhere a preacher  can be ,free-cs,is in church,Mapping
+Somewhere a pillow can be ,free-cs,is on a bed,Filling
+Somewhere a pen can be ,free-cs,is in the office,Filling
+Somewhere a nose can be ,free-cs,is on a face,Filling
+Somewhere a mirror can be ,free-cs,is in the bathroom,Filling
+Somewhere a letter can be is at ,free-cs,a post office,Filling
+Somewhere a computer can be ,free-cs,is on a desk,Filling
+Somewhere a cloud can be ,free-cs,is in the sky.,Filling
+Somewhere a chair can be ,free-cs,is in an office,Filling
+Somewhere a bride  can be is at ,free-cs,a wedding,Mapping
+Somewhere a boat can be ,free-cs,is in the water,Mapping
+Sometimes washing your car causes ,free-cs,your car to be clean,Mapping
+Sometimes singing causes ,free-cs,a sore throat.,Filling
+Sometimes relaxing causes ,free-cs,sleeping,Filling
+Sometimes playing causes ,free-cs,fun,Filling
+Sometimes playing a game with your friends causes ,free-cs,fun,Mapping
+Sometimes killing causes ,free-cs,death,Filling
+Sometimes having a rest causes ,free-cs,sleep,Mapping
+Sometimes having a haircut causes ,free-cs,you to have shorter hair.,Mapping
+Sometimes going to bed causes ,free-cs,sleep.,Filling
+Sometimes going to a laundromat causes ,free-cs,clean clothes,Mapping
+Sometimes falling causes ,free-cs,injuries.,Filling
+Sometimes exercise causes ,free-cs,sweat,Filling
+Something you need to do before you watch a tv show is ,free-cs,turn on the tv,Turn on the tv
+Something you need to do before you watch TV is ,free-cs,turn on the TV,Mapping
+Something you need to do before you take finals is ,free-cs,to study,Mapping
+Something you need to do before you take an examination is ,free-cs,study,Mapping
+Something you need to do before you take an exam is ,free-cs,study,Mapping
+Something you need to do before you stop your bicycle is ,free-cs,apply the brake,Mapping
+Something you need to do before you sleep is ,free-cs,close your eyes,Filling
+Something you need to do before you see exhibits is ,free-cs,go to a museum,Mapping
+Something you need to do before you see a band is ,free-cs,buy tickets,Mapping
+Something you need to do before you run a marathon is ,free-cs,to train,Mapping
+Something you need to do before you remember is ,free-cs,think.,Mapping
+Something you need to do before you read a newspaper is ,free-cs,buy a newspaper.,Mapping
+Something you need to do before you pretend is ,free-cs,have an imagination.,Mapping
+Something you need to do before you pay cash is ,free-cs,have cash.,Mapping
+Something you need to do before you pass your university exams is ,free-cs,study.,Mapping
+Something you need to do before you listen to music is ,free-cs,turn on the radio,Filling
+Something you need to do before you have a physical exam is ,free-cs,go to the doctor,Mapping
+Something you need to do before you go to bed is ,free-cs,turn out the lights,Mapping
+Something you need to do before you go to an opera is ,free-cs,buy tickets.,Mapping
+Something you need to do before you go for a jog is ,free-cs,put on your running shoes,Mapping
+Something you need to do before you go for a drive is  ,free-cs,get into the car,Mapping
+Something you need to do before you get up early is ,free-cs,set your alarm clock.,Filling
+Something you need to do before you get a good grade is ,free-cs,study.,Mapping
+Something you need to do before you drive to work is ,free-cs,get into a car.,Mapping
+Something you need to do before you drive is ,free-cs,get in the car.,Mapping
+Something you need to do before you do some exercises is ,free-cs,stretch,Mapping
+Something you need to do before you commit perjury is ,free-cs,lie,Mapping
+Something you need to do before you buy something is ,free-cs,have money,Mapping
+Something you need to do before you bathe is ,free-cs,take your clothes off,Mapping
+Something you might do while taking an oath is ,free-cs,raise your right hand,Mapping
+Something you might do while sleeping at night is ,free-cs,dreaming.,Filling
+Something you might do while running in a marathon is ,free-cs,drinking water,Filling
+Something you might do while running a marathon is ,free-cs,sweating,Filling
+Something you might do while riding a horse is ,free-cs,fall off,Filling
+Something you might do while reproducing is ,free-cs,have sex,Mapping
+Something you might do while reading a book is ,free-cs,turn pages,Filling
+Something you might do while praying is ,free-cs,kneel down,Mapping
+Something you might do while playing sports is ,free-cs,have fun,Filling
+Something you might do while playing a guitar is ,free-cs,sing.,Filling
+Something you might do while listening to music is ,free-cs,dance.,Filling
+Something you might do while lighting a fire is ,free-cs,striking a match,Filling
+Something you might do while having sex is ,free-cs,have an orgasm.,Filling
+Something you might do while going to sleep  is ,free-cs,close your eyes,Filling
+Something you might do while gathering energy for tomorrow is ,free-cs,sleep.,Filling
+Something you might do while drinking is ,free-cs,swallow,Filling
+Something you might do while doing housework is ,free-cs,dusting,Filling
+Something you might do while committing to memory is ,free-cs,repeat,Filling
+Something you might do while burying the cat is ,free-cs,dig a hole,Filling
+Something you might do while attending school is ,free-cs,learn,Mapping
+Something you might do while attending class is ,free-cs,learning,Filling
+Something you might do while ,free-cs,reading is learn,Filling
+Something you find under the table is ,free-cs,a floor.,Filling
+Something you find under the bed is ,free-cs,a dust bunny,Filling
+Something you find under a desk is ,free-cs,drawers,Filling
+Something you find on the windowsill is ,free-cs,a cat,Filling
+Something you find on the table is ,free-cs,a tablecloth.,Filling
+Something you find on the subway is ,free-cs,people,Filling
+Something you find on the street is ,free-cs,bicycle,Filling
+Something you find on the sea is ,free-cs,ship,Filling
+Something you find on the sea  is ,free-cs,boat,Filling
+Something you find on the roof is ,free-cs,birds,Filling
+Something you find on the internet is ,free-cs,information.,Filling
+Something you find on the floor is ,free-cs,carpet,Filling
+Something you find on the desk is ,free-cs,paper clips,Filling
+Something you find on a table is ,free-cs,a plate,Filling
+Something you find on a shelf is ,free-cs,books,Filling
